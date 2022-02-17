@@ -1,3 +1,29 @@
 body {
     padding-top: 5rem;
 }
+h1{
+    font-weight: 400;
+}
+h6{
+    font-weight: 600;
+}
+.formDiv{
+    padding-top: 20px;
+}
+.formDiv label{
+    font-weight: 600;
+}
+.formDiv p{
+    padding-top: 15px;
+}
+.formDiv button{
+    background-color: #0099ff;
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    border-radius: 7px;
+}
+.formDiv button:hover{
+    color: rgb(72, 236, 72);
+}
+
